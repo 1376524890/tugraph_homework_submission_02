@@ -1,0 +1,18 @@
+# Environment variables (secrets)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Output / data files
+node2vec_embeddings.json
+node2vec_walks.json
+node2vec_training_summary.txt
+
+# OS
+.DS_Store
+Thumbs.db
