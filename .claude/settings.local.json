@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"/Users/marktom/Documents/codes/tugraph_homework_submission_02\" init)",
+      "Bash(git -C \"/Users/marktom/Documents/codes/tugraph_homework_submission_02\" branch -M main)",
+      "Bash(git -C \"/Users/marktom/Documents/codes/tugraph_homework_submission_02\" remote add origin git@github.com:1376524890/tugraph_homework_submission_02.git)",
+      "Bash(git -C \"/Users/marktom/Documents/codes/tugraph_homework_submission_02\" status --short)",
+      "Bash(git:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
