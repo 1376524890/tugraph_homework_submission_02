@@ -8,10 +8,6 @@ __pycache__/
 dist/
 build/
 
-# Output / data files
-node2vec_embeddings.json
-node2vec_walks.json
-node2vec_training_summary.txt
 
 # OS
 .DS_Store
